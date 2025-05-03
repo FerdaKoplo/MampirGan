@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Project C#\\MampirGan\\MampirGanSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\mampirganapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\mampirganapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MampirGanApp",
+              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\MampirGanApp.csproj",
+              "RelativeDocumentMoniker": "MampirGanApp\\MampirGanApp.csproj",
+              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\MampirGanApp.csproj",
+              "RelativeToolTip": "MampirGanApp\\MampirGanApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T11:44:10.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Program.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Program.cs",
+              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Program.cs",
+              "RelativeToolTip": "MampirGanApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:42:52.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
