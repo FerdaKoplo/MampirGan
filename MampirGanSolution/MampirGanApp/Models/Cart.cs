@@ -8,7 +8,7 @@ namespace MampirGanApp.Models
 {
     public class Cart
     {
-        public int cartID { get; set; }
+        public int CartID { get; set; }
         public int UserID { get; set; }
         public User users;
         public int ProductID { get; set; }
