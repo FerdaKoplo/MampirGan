@@ -9,14 +9,14 @@ using System.Threading.Tasks;
 
 namespace MampirGanApp.Controllers
 {
-    public class CommandRule
+    public class CartRule
     {
         public CartEvent Event { get; }
         public string Key { get; }
         public string Label { get; }
         public CartState[] AllowedStates { get; }
         public Action<CartController> Action{ get;}
-        public CommandRule (string key, string label, CartEvent ev, CartState[] allowed, Action<CartController> action)
+        public CartRule(string key, string label, CartEvent ev, CartState[] allowed, Action<CartController> action)
         {
             Key = key;
             Label = label;
@@ -41,11 +41,11 @@ namespace MampirGanApp.Controllers
         { (CartState.CheckedOut, CartEvent.Exit),      CartState.CheckedOut}
     };
 
-        private readonly List<CommandRule> commands;
+        private readonly List<CartRule> cartCommands;
 
         public CartController()
         {
-            commands = new List<CommandRule>
+            cartCommands = new List<CartRule>
         {
             new("1", "Tambahkan Item",    CartEvent.AddItem,    new[]{CartState.Empty, CartState.Active}, ctrl => ctrl.AddItem()),
             new("2", "Hapus Item", CartEvent.RemoveItem, new[]{CartState.Active},              ctrl => ctrl.RemoveItem()),
@@ -54,14 +54,13 @@ namespace MampirGanApp.Controllers
             new("0", "Exit",        CartEvent.Exit,       new[]{CartState.Empty, CartState.Active, CartState.CheckedOut}, ctrl => ctrl.Exit())
         };
         }
-
         public void Run()
         {
             bool running = true;
             while (running)
             {
                 Console.WriteLine($"\n=== Keranjang Action: {state} ===");
-                foreach (var cmd in commands)
+                foreach (var cmd in cartCommands)
                 {
                     if (Array.Exists(cmd.AllowedStates, s => s == state))
                         Console.WriteLine($"{cmd.Key}. {cmd.Label}");
@@ -69,7 +68,7 @@ namespace MampirGanApp.Controllers
 
                 Console.Write("Pilih: ");
                 var choice = Console.ReadLine();
-                var rule = commands.Find(c => c.Key == choice);
+                var rule = cartCommands.Find(c => c.Key == choice);
 
                 if (rule is null || Array.IndexOf(rule.AllowedStates, state) < 0)
                 {

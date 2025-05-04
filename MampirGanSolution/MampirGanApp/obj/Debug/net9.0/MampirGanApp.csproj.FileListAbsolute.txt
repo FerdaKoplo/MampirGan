@@ -1,0 +1,5 @@
+D:\Project C#\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.AssemblyInfoInputs.cache
+D:\Project C#\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.AssemblyInfo.cs
+D:\Project C#\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.csproj.CoreCompileInputs.cache
+D:\Project C#\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.sourcelink.json
