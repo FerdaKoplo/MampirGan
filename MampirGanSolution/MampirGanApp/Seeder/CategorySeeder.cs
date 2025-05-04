@@ -9,6 +9,7 @@ namespace MampirGanApp.Seeder
 {
     public class CategorySeeder
     {
+        public static List<Category> Categories = new List<Category>();
         public static void seedCategories()
         {
             var categories = new List<Category>

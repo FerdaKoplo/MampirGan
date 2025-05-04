@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MampirGanApp.Services
+namespace MampirGanApp.Enums.Events
 {
-    class ProductFilterService
+    public enum CategoryEvent
     {
+        ViewAll,
+        FindById,
+        Exit
     }
 }
