@@ -10,10 +10,9 @@ namespace MampirGanApp.Models
     {
         public int CartID { get; set; }
         public int UserID { get; set; }
-        public User users;
+        public User users { get; set; }
         public int ProductID { get; set; }
-        public Product products;
+        public Product products { get; set; }
         public int Quantity { get; set; }
-        public List<Product> Products { get; set; } = new List<Product>();
     }
 }

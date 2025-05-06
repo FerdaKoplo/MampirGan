@@ -12,6 +12,6 @@ namespace MampirGanApp.Models
         public int UserID { get; set; }
         public DateTime Date { get; set; }
         public decimal TotalAmount { get; set; }
-        public TransactionItem transactionItem;
+        public List<TransactionItem> Items { get; set; } = new List<TransactionItem>();
     }
 }

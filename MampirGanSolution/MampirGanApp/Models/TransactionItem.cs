@@ -11,8 +11,8 @@ namespace MampirGanApp.Models
         public int TransactionItemID { get; set; }
         public int ProductID { get; set; }
         public string ProductName { get; set; }
-        public Product products;
+        public List<Product> Products { get; set; }
         public int Quantity { get; set; }
-        public decimal PriceAtCheckout { get; set; }
+        public decimal SubTotal { get; set; }
     }
 }
