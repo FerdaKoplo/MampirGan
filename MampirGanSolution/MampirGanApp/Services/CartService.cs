@@ -9,7 +9,7 @@ namespace MampirGanApp.Services
 {
     public class CartService
     {
-        private readonly List<Cart> CartItems = new();
+        private readonly List<Cart> CartItems  = new();
 
         public void AddItem(int productID, int quantity)
         {
@@ -49,6 +49,8 @@ namespace MampirGanApp.Services
             CartItems.Remove(existingItem);
             Console.WriteLine($"Item {existingItem.products.ProductName} dihapus dari keranjang");
         }
+
+        public bool HasItems() => CartItems.Any();
 
         public void ViewCart()
         {
