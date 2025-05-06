@@ -1,102 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project C#\\MampirGan\\MampirGanSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\views\\authview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\views\\authview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\seeder\\categoryseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\seeder\\categoryseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\seeder\\productseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\seeder\\productseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\views\\cartview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\views\\cartview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\enums\\events\\categoryevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\enums\\events\\categoryevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\enums\\events\\cartevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\enums\\events\\cartevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\enums\\states\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\enums\\states\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\models\\transactionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\models\\transactionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganapp\\mampirganapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\mampirganapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23CE2FEB-E92E-4221-B63D-2A9D0CA852D9}|MampirGanLibrary\\MampirGanLibrary.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23CE2FEB-E92E-4221-B63D-2A9D0CA852D9}|MampirGanLibrary\\MampirGanLibrary.csproj|solutionrelative:mampirganlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\seeder\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\seeder\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23CE2FEB-E92E-4221-B63D-2A9D0CA852D9}|MampirGanLibrary\\MampirGanLibrary.csproj|d:\\project c#\\mampirgan\\mampirgansolution\\mampirganlibrary\\mampirganlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{23CE2FEB-E92E-4221-B63D-2A9D0CA852D9}|MampirGanLibrary\\MampirGanLibrary.csproj|solutionrelative:mampirganlibrary\\mampirganlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\seeder\\categoryseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\seeder\\categoryseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\seeder\\productseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\seeder\\productseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\views\\cartview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\views\\cartview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\enums\\events\\categoryevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\enums\\events\\categoryevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\enums\\events\\cartevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\enums\\events\\cartevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\enums\\states\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\enums\\states\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|c:\\users\\hp victus\\onedrive\\desktop\\konstruksiclo2\\mampirgan\\mampirgansolution\\mampirganapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4392A51-E57A-4662-8FE2-6FED7A6231FD}|MampirGanApp\\MampirGanApp.csproj|solutionrelative:mampirganapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,313 +94,286 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryEvent.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\Events\\CategoryEvent.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Enums\\Events\\CategoryEvent.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\Events\\CategoryEvent.cs",
-              "RelativeToolTip": "MampirGanApp\\Enums\\Events\\CategoryEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AuthView.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Views\\AuthView.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Views\\AuthView.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Views\\AuthView.cs",
+              "RelativeToolTip": "MampirGanApp\\Views\\AuthView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T16:56:40.263Z",
+              "WhenOpened": "2025-05-06T15:12:14.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Program.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Program.cs",
+              "RelativeToolTip": "MampirGanApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:23:24.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "MampirGanApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:44:17.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductView.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Views\\ProductView.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Views\\ProductView.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Views\\ProductView.cs",
+              "RelativeToolTip": "MampirGanApp\\Views\\ProductView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:36:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Seeder\\UserSeeder.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Seeder\\UserSeeder.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Seeder\\UserSeeder.cs",
+              "RelativeToolTip": "MampirGanApp\\Seeder\\UserSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:07:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\CategoryService.cs",
+              "RelativeToolTip": "MampirGanApp\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:10:34.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CartService.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\CartService.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\CartService.cs",
               "RelativeDocumentMoniker": "MampirGanApp\\Services\\CartService.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\CartService.cs",
               "RelativeToolTip": "MampirGanApp\\Services\\CartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwE0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T14:32:14.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CartEvent.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\Events\\CartEvent.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Enums\\Events\\CartEvent.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\Events\\CartEvent.cs",
-              "RelativeToolTip": "MampirGanApp\\Enums\\Events\\CartEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T14:29:44.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CartState.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\States\\CartState.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Enums\\States\\CartState.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\States\\CartState.cs",
-              "RelativeToolTip": "MampirGanApp\\Enums\\States\\CartState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T14:27:52.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategorySeeder.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Seeder\\CategorySeeder.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Seeder\\CategorySeeder.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Seeder\\CategorySeeder.cs",
-              "RelativeToolTip": "MampirGanApp\\Seeder\\CategorySeeder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:31:11.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductSeeder.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Seeder\\ProductSeeder.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Seeder\\ProductSeeder.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Seeder\\ProductSeeder.cs",
-              "RelativeToolTip": "MampirGanApp\\Seeder\\ProductSeeder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:23:49.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "MampirGanLibrary\\Class1.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanLibrary\\Class1.cs",
-              "RelativeToolTip": "MampirGanLibrary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:17:12.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MampirGanLibrary.csproj",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanLibrary\\MampirGanLibrary.csproj",
-              "RelativeDocumentMoniker": "MampirGanLibrary\\MampirGanLibrary.csproj",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanLibrary\\MampirGanLibrary.csproj",
-              "RelativeToolTip": "MampirGanLibrary\\MampirGanLibrary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-04T11:17:09.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductView.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Views\\ProductView.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Views\\ProductView.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Views\\ProductView.cs",
-              "RelativeToolTip": "MampirGanApp\\Views\\ProductView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:10:58.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CartView.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Views\\CartView.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Views\\CartView.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Views\\CartView.cs",
-              "RelativeToolTip": "MampirGanApp\\Views\\CartView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:10:41.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Services\\CategoryService.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\CategoryService.cs",
-              "RelativeToolTip": "MampirGanApp\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:08:24.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "MampirGanApp\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:05:53.164Z",
+              "WhenOpened": "2025-05-05T12:36:51.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TransactionService.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\TransactionService.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Services\\TransactionService.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\TransactionService.cs",
-              "RelativeToolTip": "MampirGanApp\\Services\\TransactionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\User.cs",
+              "RelativeToolTip": "MampirGanApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:00:41.044Z",
+              "WhenOpened": "2025-05-06T12:23:36.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Services\\TransactionService.cs",
+              "RelativeToolTip": "MampirGanApp\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:10:39.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategorySeeder.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Seeder\\CategorySeeder.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Seeder\\CategorySeeder.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Seeder\\CategorySeeder.cs",
+              "RelativeToolTip": "MampirGanApp\\Seeder\\CategorySeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:21:13.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Controllers\\TransactionController.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "MampirGanApp\\Controllers\\TransactionController.cs",
+              "Title": "ProductSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Seeder\\ProductSeeder.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Seeder\\ProductSeeder.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Seeder\\ProductSeeder.cs",
+              "RelativeToolTip": "MampirGanApp\\Seeder\\ProductSeeder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T10:59:44.523Z",
+              "WhenOpened": "2025-05-06T13:21:16.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "CartView.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Views\\CartView.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Views\\CartView.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Views\\CartView.cs",
+              "RelativeToolTip": "MampirGanApp\\Views\\CartView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:36:48.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MampirGanApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:53:51.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MampirGanApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:23:51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MampirGanApp\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\ProductController.cs",
               "RelativeToolTip": "MampirGanApp\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T10:57:36.2Z",
+              "WhenOpened": "2025-05-05T12:36:06.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\CartController.cs",
-              "RelativeToolTip": "MampirGanApp\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAswGMAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "MampirGanApp\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T10:57:00.202Z",
+              "WhenOpened": "2025-05-05T12:36:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartState.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\States\\CartState.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Enums\\States\\CartState.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\States\\CartState.cs",
+              "RelativeToolTip": "MampirGanApp\\Enums\\States\\CartState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:23:47.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartEvent.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\Events\\CartEvent.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Enums\\Events\\CartEvent.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\Events\\CartEvent.cs",
+              "RelativeToolTip": "MampirGanApp\\Enums\\Events\\CartEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:23:46.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryEvent.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\Events\\CategoryEvent.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Enums\\Events\\CategoryEvent.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Enums\\Events\\CategoryEvent.cs",
+              "RelativeToolTip": "MampirGanApp\\Enums\\Events\\CategoryEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:23:44.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "TransactionItem.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\TransactionItem.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Models\\TransactionItem.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\TransactionItem.cs",
-              "RelativeToolTip": "MampirGanApp\\Models\\TransactionItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T12:00:28.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Category.cs",
               "RelativeDocumentMoniker": "MampirGanApp\\Models\\Category.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Category.cs",
               "RelativeToolTip": "MampirGanApp\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:56:29.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Models\\Cart.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Cart.cs",
-              "RelativeToolTip": "MampirGanApp\\Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:56:08.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Models\\Transaction.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Transaction.cs",
-              "RelativeToolTip": "MampirGanApp\\Models\\Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:53:27.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Models\\Product.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Product.cs",
-              "RelativeToolTip": "MampirGanApp\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:52:57.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Models\\User.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\User.cs",
-              "RelativeToolTip": "MampirGanApp\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:51:53.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MampirGanApp.csproj",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\MampirGanApp.csproj",
-              "RelativeDocumentMoniker": "MampirGanApp\\MampirGanApp.csproj",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\MampirGanApp.csproj",
-              "RelativeToolTip": "MampirGanApp\\MampirGanApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-03T11:44:10.965Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:35:47.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Program.cs",
-              "RelativeDocumentMoniker": "MampirGanApp\\Program.cs",
-              "ToolTip": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\Program.cs",
-              "RelativeToolTip": "MampirGanApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "MampirGanApp\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\Models\\Cart.cs",
+              "RelativeToolTip": "MampirGanApp\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:42:52.714Z"
+              "WhenOpened": "2025-05-05T12:35:31.861Z"
             }
           ]
         }

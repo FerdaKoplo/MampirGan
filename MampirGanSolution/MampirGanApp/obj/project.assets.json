@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\IVAN\\.nuget\\packages\\": {},
+    "C:\\Users\\HP VICTUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\MampirGanApp.csproj",
+      "projectUniqueName": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\MampirGanApp.csproj",
       "projectName": "MampirGanApp",
-      "projectPath": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\MampirGanApp.csproj",
-      "packagesPath": "C:\\Users\\IVAN\\.nuget\\packages\\",
-      "outputPath": "D:\\Project C#\\MampirGan\\MampirGanSolution\\MampirGanApp\\obj\\",
+      "projectPath": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\MampirGanApp.csproj",
+      "packagesPath": "C:\\Users\\HP VICTUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP VICTUS\\OneDrive\\Desktop\\konstruksiCLO2\\MampirGan\\MampirGanSolution\\MampirGanApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
