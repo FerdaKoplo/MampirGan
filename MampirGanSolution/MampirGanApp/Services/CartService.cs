@@ -50,6 +50,8 @@ namespace MampirGanApp.Services
             Console.WriteLine($"Item {existingItem.products.ProductName} dihapus dari keranjang");
         }
 
+        public bool HasItems() => CartItems.Any();
+
         public void ViewCart()
         {
             if (!CartItems.Any())

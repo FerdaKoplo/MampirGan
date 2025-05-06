@@ -51,6 +51,7 @@ namespace MampirGanApp.Controllers
             new("2", "Hapus Item", CartEvent.RemoveItem, new[]{CartState.Active},              ctrl => ctrl.RemoveItem()),
             new("3", "Lihat Cart",   CartEvent.ViewCart,   new[]{CartState.Empty, CartState.Active}, ctrl => ctrl.ViewCart()),
             new("4", "Bersihkan Keranjang",  CartEvent.ClearCart,  new[]{CartState.Active},              ctrl => ctrl.ClearCart()),
+            new("5", "Checkout", CartEvent.Checkout, new[]{CartState.Active}, ctrl => ctrl.Checkout()),
             new("0", "Exit",        CartEvent.Exit,       new[]{CartState.Empty, CartState.Active, CartState.CheckedOut}, ctrl => ctrl.Exit())
         };
         }
@@ -107,6 +108,20 @@ namespace MampirGanApp.Controllers
         private void ViewCart() => service.ViewCart();
 
         private void ClearCart() => service.ClearCart();
+        public void Checkout()
+        {
+            if (!service.HasItems())
+            {
+                Console.WriteLine("Keranjang kosong, tidak bisa checkout.");
+                return;
+            }
+
+            service.ViewCart();
+            Console.WriteLine("\nLanjutkan ke checkout...");
+            Console.WriteLine("Pembayaran berhasil. Terima kasih sudah berbelanja!");
+
+            service.ClearCart();
+        }
 
         private void Exit() => Console.WriteLine("Keluar Keranjang.");
 
