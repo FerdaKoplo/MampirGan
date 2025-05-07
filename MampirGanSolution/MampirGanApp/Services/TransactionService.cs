@@ -48,8 +48,6 @@ namespace MampirGanApp.Services
                 Console.WriteLine($"- {item.ProductName} x{item.Quantity} = {item.SubTotal:C}");
             }
             Console.WriteLine($"Total: {transaction.TotalAmount:C}");
-
-
         }
 
     }

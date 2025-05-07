@@ -33,10 +33,11 @@ namespace MampirGanApp.Controllers
         private CheckoutState state = CheckoutState.Idle;
         private readonly TransactionService service = new();
         private readonly List<Cart> currentCart;
+        private bool running = true;
+
         private static readonly Dictionary<(CheckoutState, CheckoutEvent), CheckoutState> Transitions = new()
         {
-            { (CheckoutState.Idle, CheckoutEvent.ViewCart), CheckoutState.ViewingCart },
-            { (CheckoutState.ViewingCart, CheckoutEvent.ConfirmCheckout), CheckoutState.Confirming },
+            { (CheckoutState.Idle, CheckoutEvent.ConfirmCheckout), CheckoutState.Confirming },
             { (CheckoutState.Confirming, CheckoutEvent.Pay), CheckoutState.Processing },
             { (CheckoutState.Processing, CheckoutEvent.Success), CheckoutState.Completed },
             { (CheckoutState.Completed, CheckoutEvent.Exit), CheckoutState.Completed }
@@ -49,16 +50,15 @@ namespace MampirGanApp.Controllers
 
             transactionCommands = new List<TransactionRule>
         {
-            new("1", "Lihat Keranjang", CheckoutEvent.ViewCart, new[]{ CheckoutState.Idle }, ctrl => ctrl.ViewCart()),
-            new("2", "Konfirmasi Checkout", CheckoutEvent.ConfirmCheckout, new[]{ CheckoutState.ViewingCart }, ctrl => ctrl.ConfirmCheckout()),
-            new("3", "Bayar", CheckoutEvent.Pay, new[]{ CheckoutState.Confirming }, ctrl => ctrl.Pay()),
-            new("4", "Exit", CheckoutEvent.Exit, new[]{ CheckoutState.Completed }, ctrl => ctrl.Exit())
+            new("1", "Konfirmasi Checkout", CheckoutEvent.ConfirmCheckout, new[]{ CheckoutState.Idle}, ctrl => ctrl.ConfirmCheckout()),
+            new("2", "Bayar", CheckoutEvent.Pay, new[]{ CheckoutState.Confirming }, ctrl => ctrl.Pay()),
+            new("3", "Exit", CheckoutEvent.Exit, new[]{ CheckoutState.Completed }, ctrl => ctrl.Exit())
         };
         }
 
         public void Run()
         {
-            bool running = true;
+            running = true;
 
             while (running)
             {
@@ -84,24 +84,8 @@ namespace MampirGanApp.Controllers
                 if (Transitions.TryGetValue((state, rule.Event), out var next))
                     state = next;
 
-                if (rule.Event == CheckoutEvent.Exit)
+                if (state == CheckoutState.Completed)
                     running = false;
-            }
-        }
-
-
-        private void ViewCart()
-        {
-            if (currentCart.Count == 0)
-            {
-                Console.WriteLine("Keranjang Kosong");
-            }
-            else
-            {
-                foreach (var item in currentCart)
-                {
-                    Console.WriteLine($"{item.products.ProductName} x{item.Quantity}");
-                }
             }
         }
 
@@ -116,6 +100,7 @@ namespace MampirGanApp.Controllers
             service.ProcessCheckout(currentCart);
             if (Transitions.TryGetValue((state, CheckoutEvent.Success), out var successState))
                 state = successState;
+                running = false;
         }
 
         private void Exit()

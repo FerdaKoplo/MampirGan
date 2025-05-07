@@ -10,6 +10,7 @@ namespace MampirGanApp.Enums.Events
     {
         ViewAll,
         FindById,
+        ViewProductsByCategory,
         Exit
     }
 }

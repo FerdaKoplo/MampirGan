@@ -11,15 +11,15 @@ namespace MampirGanApp.Services
     {
         private readonly List<Cart> CartItems  = new();
 
-        public void AddItem(int productID, int quantity)
+        public void AddItem(string productName, int quantity)
         {
-            var prod = Seeder.ProductSeeder.Products.Find(p => p.ProductID == productID);
+            var prod = Seeder.ProductSeeder.Products.Find(p => p.ProductName == productName);
             if (prod == null)
             {
                 Console.WriteLine("Item tidak ditemukan");
                 return;
             }
-            var existingItem = CartItems.FirstOrDefault(c => c.ProductID == productID);
+            var existingItem = CartItems.FirstOrDefault(c => c.ProductID == prod.ProductID);
             if (existingItem != null)
             {
                 existingItem.Quantity += quantity;
@@ -29,7 +29,7 @@ namespace MampirGanApp.Services
             {
                 var cartItem = new Cart()
                 {
-                    ProductID = productID,
+                    ProductID = prod.ProductID,
                     Quantity = quantity,
                     products = prod
                 };
@@ -76,6 +76,11 @@ namespace MampirGanApp.Services
         {
             CartItems.Clear();
             Console.WriteLine("Semua item di keranjang telah dihapus.");
+        }
+
+        public List<Cart> GetCart()
+        {
+            return CartItems; 
         }
     }
 }
