@@ -30,6 +30,7 @@ namespace MampirGanApp.Controllers
     {
         private CartState state = CartState.Empty;
         private readonly CartService service = new();
+        private TransactionController checkout;
 
         private static readonly Dictionary<(CartState, CartEvent), CartState> Transitions = new()
     {
@@ -90,12 +91,12 @@ namespace MampirGanApp.Controllers
         private void AddItem()
         {
             Console.Write("Item yang ingin ditambah: ");
-            if (!int.TryParse(Console.ReadLine(), out int pid)) return;
+            string productName = Console.ReadLine();
 
             Console.Write("Jumlah yang ingin dtambah: ");
             if (!int.TryParse(Console.ReadLine(), out int qty)) return;
 
-            service.AddItem(pid, qty);
+            service.AddItem(productName, qty);
         }
 
         private void RemoveItem()
@@ -118,9 +119,9 @@ namespace MampirGanApp.Controllers
 
             service.ViewCart();
             Console.WriteLine("\nLanjutkan ke checkout...");
-            Console.WriteLine("Pembayaran berhasil. Terima kasih sudah berbelanja!");
+            checkout = new TransactionController(service.GetCart());
+            checkout.Run();
 
-            service.ClearCart();
         }
 
         private void Exit() => Console.WriteLine("Keluar Keranjang.");

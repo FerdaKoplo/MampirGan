@@ -1,12 +1,12 @@
-﻿using MampirGanApp.Seeder;
+﻿using MampirGanApp.Controllers;
+using MampirGanApp.Seeder;
 using MampirGanApp.Views;
 
 class Program
 {
     static void Main(string[] args)
     {
-        ProductSeeder.seedProducts();
-        var view = new CartView();
-        view.Show();
+        var MenuUser = new MenuUserController();
+        MenuUser.ViewMenuUser();
     }
 }

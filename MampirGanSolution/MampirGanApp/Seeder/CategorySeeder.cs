@@ -12,11 +12,12 @@ namespace MampirGanApp.Seeder
         public static List<Category> Categories = new List<Category>();
         public static void seedCategories()
         {
-            var categories = new List<Category>
+            Categories = new List<Category>
         {
             new Category { CategoryID = 1, CategoryName = "Kopi Panas", Description = "Segala jenis kopi panas" },
             new Category { CategoryID = 2, CategoryName = "Es Kopi", Description = "Kopi dingin dan segar" },
-            new Category { CategoryID = 3, CategoryName = "Non-Kopi", Description = "Minuman selain kopi" }
+            new Category { CategoryID = 3, CategoryName = "Non-Kopi", Description = "Minuman selain kopi" },
+            new Category { CategoryID = 4, CategoryName = "Snacks", Description = "Makanan ringan" }
         };
         }
     }

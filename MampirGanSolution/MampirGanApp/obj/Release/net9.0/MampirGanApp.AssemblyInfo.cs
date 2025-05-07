@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MampirGanApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c341041172e2f5d5ed7877b1669f79a0bea8b13d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0671b5878c41032ea4d6bd717f8e339f1729d23f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MampirGanApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MampirGanApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

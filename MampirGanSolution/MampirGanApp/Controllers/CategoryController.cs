@@ -1,4 +1,5 @@
 ﻿using MampirGanApp.Enums.Events;
+using MampirGanApp.Seeder;
 using MampirGanApp.Services;
 using System;
 using System.Collections.Generic;
@@ -34,7 +35,7 @@ namespace MampirGanApp.Controllers
             categoryCommand = new List<CategoryRule>
             {
                 new("1", "Lihat Semua Kategori", CategoryEvent.ViewAll, ctrl => ctrl.ViewAll()),
-                new("2", "Cari Kategori Berdasarkan ID", CategoryEvent.FindById, ctrl => ctrl.FindById()),
+                new("2", "Lihat Produk Berdasarkan Kategori", CategoryEvent.ViewProductsByCategory, ctrl => ctrl.ViewProductsByCategory()),
                 new("0", "Keluar", CategoryEvent.Exit, ctrl => ctrl.Exit())
             };
         }
@@ -67,12 +68,42 @@ namespace MampirGanApp.Controllers
 
         private void ViewAll() => service.ViewAll();
 
-        private void FindById()
+        private void Exit()
         {
-            Console.Write("Masukkan ID Kategori: ");
-            if (int.TryParse(Console.ReadLine(), out int id))
+            Console.WriteLine("Keluar dari menu kategori.");
+        }
+
+        private void ViewProductsByCategory()
+        {
+            Console.Write("Masukkan Nama Kategori: ");
+            string categoryName = Console.ReadLine();
+
+            if (!string.IsNullOrWhiteSpace(categoryName))
             {
-                service.FindById(id);
+                var category = CategorySeeder.Categories.FirstOrDefault(
+                    c => string.Equals(c.CategoryName, categoryName, StringComparison.OrdinalIgnoreCase)
+                );
+
+                if (category != null)
+                {
+                    var products = ProductSeeder.Products.Where(p => p.CategoryID == category.CategoryID).ToList();
+                    if (products.Any())
+                    {
+                        Console.WriteLine($"\nProduk dalam kategori '{category.CategoryName}':");
+                        foreach (var p in products)
+                        {
+                            Console.WriteLine($"- (ID {p.ProductID}) {p.ProductName} (Rp{p.Price}, Stok: {p.Stock})");
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("Tidak ada produk dalam kategori ini.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Kategori tidak ditemukan.");
+                }
             }
             else
             {
@@ -80,10 +111,6 @@ namespace MampirGanApp.Controllers
             }
         }
 
-        private void Exit()
-        {
-            Console.WriteLine("Keluar dari menu kategori.");
-        }
 
     }
 }
