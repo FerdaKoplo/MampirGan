@@ -55,7 +55,6 @@ class Program
                             ShowCustomerMenu();
                     }
                     break;
-
                 case "0":
                     return;
             }
@@ -103,7 +102,16 @@ class Program
 
     static void ShowAdminMenu()
     {
-        while (true)
+        string currentState = "AdminMenu";
+
+        var adminActions = new Dictionary<string, Action>
+    {
+        { "1", () => ManageMenu() },
+        { "2", () => Console.WriteLine("Fitur lihat history transaksi customer belum diimplementasikan.") },
+        { "0", () => { currentState = "Exit"; Console.WriteLine("Logout berhasil."); } }
+    };
+
+        while (currentState != "Exit")
         {
             Console.WriteLine("\n=== ADMIN MENU ===");
             Console.WriteLine("1. Manage list menu");
@@ -112,82 +120,49 @@ class Program
             Console.Write("Pilih menu: ");
             string input = Console.ReadLine();
 
-            // DBC: precondition
+            // DBC
             if (string.IsNullOrWhiteSpace(input))
                 throw new ArgumentException("Input tidak boleh kosong.");
-            if (!new[] { "0", "1", "2" }.Contains(input))
-                throw new ArgumentOutOfRangeException("Pilihan menu tidak valid.");
+            if (!adminActions.ContainsKey(input))
+                throw new ArgumentOutOfRangeException("Pilihan tidak valid.");
 
-            switch (input)
-            {
-                case "1":
-                    ManageMenu(); 
-                    break;
-                case "2":
-                    
-                    break;
-                case "0":
-                    Console.WriteLine("Logout berhasil.");
-                    return;
-            }
+            adminActions[input](); // Table-driven execution
         }
     }
 
-   //AUTOMATA: Sub-state machine untuk Manage Menu 
+
+    //AUTOMATA: Sub-state machine untuk Manage Menu 
     static void ManageMenu()
     {
-        string currentState = "MenuUtama";
+        string currentState = "ManageMenu";
 
-        while (true)
+        var menuActions = new Dictionary<string, Action>
+    {
+        { "1", () => { TambahMenu(); currentState = "ManageMenu"; } },
+        { "2", () => { TampilkanMenu(); currentState = "ManageMenu"; } },
+        { "3", () => { EditMenu(); currentState = "ManageMenu"; } },
+        { "4", () => { HapusMenu(); currentState = "ManageMenu"; } },
+        { "0", () => { Console.WriteLine("Kembali ke menu admin..."); currentState = "Exit"; } }
+    };
+
+        while (currentState != "Exit")
         {
-            switch (currentState)
-            {
-                case "MenuUtama":
-                    Console.WriteLine("\n== MANAGE MENU ==");
-                    Console.WriteLine("1. Tambah Menu");
-                    Console.WriteLine("2. Lihat Menu");
-                    Console.WriteLine("3. Edit Menu");
-                    Console.WriteLine("4. Hapus Menu");
-                    Console.WriteLine("0. Kembali");
-                    Console.Write("Pilih: ");
-                    string pilihan = Console.ReadLine();
+            Console.WriteLine("\n== MANAGE MENU ==");
+            Console.WriteLine("1. Tambah Menu");
+            Console.WriteLine("2. Lihat Menu");
+            Console.WriteLine("3. Edit Menu");
+            Console.WriteLine("4. Hapus Menu");
+            Console.WriteLine("0. Kembali");
+            Console.Write("Pilih: ");
+            string input = Console.ReadLine();
 
-                    // DBC
-                    if (string.IsNullOrWhiteSpace(pilihan))
-                        throw new ArgumentException("Input tidak boleh kosong.");
-                    if (!new[] { "0", "1", "2", "3", "4" }.Contains(pilihan))
-                        throw new ArgumentOutOfRangeException("Pilihan tidak valid.");
+            // DBC
+            if (string.IsNullOrWhiteSpace(input))
+                throw new ArgumentException("Input tidak boleh kosong.");
+            if (!menuActions.ContainsKey(input))
+                throw new ArgumentOutOfRangeException("Pilihan tidak valid.");
 
-                    switch (pilihan)
-                    {
-                        case "1": currentState = "Tambah"; break;
-                        case "2": currentState = "Lihat"; break;
-                        case "3": currentState = "Edit"; break;
-                        case "4": currentState = "Hapus"; break;
-                        case "0": return;
-                    }
-                    break;
-
-                case "Tambah":
-                    TambahMenu();
-                    currentState = "MenuUtama";
-                    break;
-
-                case "Lihat":
-                    TampilkanMenu();
-                    currentState = "MenuUtama";
-                    break;
-
-                case "Edit":
-                    EditMenu();
-                    currentState = "MenuUtama";
-                    break;
-
-                case "Hapus":
-                    HapusMenu();
-                    currentState = "MenuUtama";
-                    break;
-            }
+            menuActions[input]();
         }
     }
 

@@ -21,6 +21,19 @@ namespace MampirGanApp.Tests.Services
             Assert.IsTrue(result);
         }
 
+        //[TestMethod]
+        //public void Register_DuplicateEmail_ThrowsException()
+        //{
+        //    var service = new AuthService();
+        //    service.Register("fufu@gmail.com", "user2", "123");
+
+        //    Assert.ThrowsException<InvalidOperationException>(() =>
+        //    {
+        //        service.Register("fufu@gmail.com", "user2", "123");
+        //    });
+        //}
+
+
         [TestMethod]
         public void Register_DuplicateEmail_ReturnsFalse()
         {

@@ -27,8 +27,8 @@ namespace MampirGanApp.Services
                 throw new ArgumentException("Data tidak boleh kosong.");
 
             if (_users.Any(u => u.Email == email || u.Username == username))
-                throw new InvalidOperationException("Email atau Username sudah terdaftar.");
-
+                return false;
+                
             User newUser = new User
             {
                 UserID = _users.Count + 1,
