@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MampirGanLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99f34023896a5e5463a0b234bdeba1c3cbc2f041")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc0d7085ce584d2e0c3a98f1fd31907f21aa320e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MampirGanLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MampirGanLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

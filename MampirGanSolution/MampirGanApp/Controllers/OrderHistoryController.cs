@@ -20,9 +20,8 @@ namespace MampirGanApp.Controllers
             
             orderHistories = new List<OrderHistory>
             {
-                new OrderHistory { OrderId = "ORD001", CustomerName = "Budi", Item = "Americano", Quantity = 2, Role = "Customer" },
-                new OrderHistory { OrderId = "ORD002", CustomerName = "Admin", Item = "Expresso", Quantity = 3, Role = "Admin" },
-                new OrderHistory { OrderId = "ORD003", CustomerName = "Sari", Item = "Hot Coffee", Quantity = 1, Role = "Customer" }
+                new OrderHistory { OrderId = "ORD001", CustomerName = "Tianto", Item = "Latte", Quantity = 2, Role = "Customer" },
+                new OrderHistory { OrderId = "ORD002", CustomerName = "Ivan", Item = "Americano", Quantity = 3, Role = "Admin" },
             };
 
             view = new OrderHistoryView();
