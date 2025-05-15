@@ -21,19 +21,20 @@ namespace MampirGanApp.Controllers
             _authView = new AuthView();
         }
 
-            public void Register()
+        public void Register()
         {
             var (email, username, password) = _authView.GetRegisterInput();
             bool success = _authService.Register(email, username, password);
             _authView.ShowRegisterResult(success);
         }
 
-            public User? Login()
+        public User? Login()
         {
             var (usernameOrEmail, password) = _authView.GetLoginInput();
             var user = _authService.Login(usernameOrEmail, password);
             _authView.ShowLoginResult(user);
             return user;
         }
-        }
     }
+}
+

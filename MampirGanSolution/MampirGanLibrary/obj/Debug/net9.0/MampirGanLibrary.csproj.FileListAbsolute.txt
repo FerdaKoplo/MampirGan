@@ -1,0 +1,12 @@
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\bin\Debug\net9.0\MampirGanLibrary.deps.json
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\bin\Debug\net9.0\MampirGanLibrary.dll
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\bin\Debug\net9.0\MampirGanLibrary.pdb
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\obj\Debug\net9.0\MampirGanLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\obj\Debug\net9.0\MampirGanLibrary.AssemblyInfoInputs.cache
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\obj\Debug\net9.0\MampirGanLibrary.AssemblyInfo.cs
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\obj\Debug\net9.0\MampirGanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\obj\Debug\net9.0\MampirGanLibrary.sourcelink.json
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\obj\Debug\net9.0\MampirGanLibrary.dll
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\obj\Debug\net9.0\refint\MampirGanLibrary.dll
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\obj\Debug\net9.0\MampirGanLibrary.pdb
+C:\Users\HP VICTUS\OneDrive\Desktop\konstruksiCLO2\MampirGan\MampirGanSolution\MampirGanLibrary\obj\Debug\net9.0\ref\MampirGanLibrary.dll

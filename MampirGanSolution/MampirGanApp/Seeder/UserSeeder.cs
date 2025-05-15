@@ -22,6 +22,7 @@ namespace MampirGanApp.Seeder
                     Role = UserRole.Admin
                 }
             };
+                
         }
     }
 }

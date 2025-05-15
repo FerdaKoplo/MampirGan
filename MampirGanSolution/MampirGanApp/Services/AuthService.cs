@@ -15,20 +15,19 @@ namespace MampirGanApp.Services
 
         public bool Register(string email, string username, string password,  UserRole role = UserRole.Customer)
         {
-            if (role == UserRole.Admin)
-            {
-                Console.WriteLine("Admin tidak bisa register. ");
-                return false;
 
-                //throw new InvalidOperationException("Admin tidak bisa register.");
-            }
+            //if (_users.Any(u => u.Email == email || u.Username == username))
+            //    return false;
 
-            //Precondition
+            //if (role == UserRole.Admin)
+            //    throw new InvalidOperationException("Admin tidak bisa register.");
+
+            // Precondition
             if (string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
                 throw new ArgumentException("Data tidak boleh kosong.");
 
             if (_users.Any(u => u.Email == email || u.Username == username))
-                return false;
+                throw new InvalidOperationException("Email atau Username sudah terdaftar.");
 
             User newUser = new User
             {
@@ -52,11 +51,6 @@ namespace MampirGanApp.Services
 
             var user = _users.FirstOrDefault(u =>
                  (u.Username == usernameOrEmail || u.Email == usernameOrEmail) && u.Password == password);
-
-
-            //post condition
-            if (user == null)
-                Console.WriteLine("Login Gagal: user tidak ditemukan atau password salah.");
 
             return user;
         }

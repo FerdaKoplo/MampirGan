@@ -12,7 +12,7 @@ namespace MampirGanApp.Views
     {
         public (string email, string username, string password) GetRegisterInput()
         {
-            Console.WriteLine(" == REGISTER PAGE ==");
+            Console.WriteLine("\n == REGISTER PAGE ==");
 
             Console.Write("Email: ");
             string email = Console.ReadLine();
@@ -49,7 +49,7 @@ namespace MampirGanApp.Views
 
         public (string usernameOrEmail, string password) GetLoginInput()
         {
-            Console.WriteLine(" == LOGIN PAGE ==");
+            Console.WriteLine("\n == LOGIN PAGE ==");
 
             Console.Write("Username atau Email: ");
             string usernameOrEmail = Console.ReadLine();
@@ -62,7 +62,7 @@ namespace MampirGanApp.Views
 
         public void ShowLoginResult(User? user)
         {
-            if (user != null)
+            if(user != null)
                 Console.WriteLine($"Login Berhasi!. Selamat Datang, {user.Username}! (Role: {user.Role})\n");
             else
                 Console.WriteLine("Login gagal. Username/Email atau password salah.\n");
