@@ -8,5 +8,9 @@ class Program
     {
         var MenuUser = new MenuUserController();
         MenuUser.ViewMenuUser();
+
+        var orderHistoryCtrl = new OrderHistoryController();
+        orderHistoryCtrl.Run();
+
     }
 }

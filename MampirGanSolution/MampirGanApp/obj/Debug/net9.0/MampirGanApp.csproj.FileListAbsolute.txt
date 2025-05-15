@@ -13,3 +13,18 @@ D:\Project C#\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\refint\M
 D:\Project C#\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.pdb
 D:\Project C#\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.genruntimeconfig.cache
 D:\Project C#\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\ref\MampirGanApp.dll
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\bin\Debug\net9.0\MampirGanApp.exe
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\bin\Debug\net9.0\MampirGanApp.deps.json
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\bin\Debug\net9.0\MampirGanApp.runtimeconfig.json
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\bin\Debug\net9.0\MampirGanApp.dll
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\bin\Debug\net9.0\MampirGanApp.pdb
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.AssemblyInfoInputs.cache
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.AssemblyInfo.cs
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.csproj.CoreCompileInputs.cache
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.sourcelink.json
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.dll
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\refint\MampirGanApp.dll
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.pdb
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\MampirGanApp.genruntimeconfig.cache
+C:\terrafel\KONSTRUKSI\MampirGan\MampirGanSolution\MampirGanApp\obj\Debug\net9.0\ref\MampirGanApp.dll
