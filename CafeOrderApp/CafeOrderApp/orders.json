@@ -1,0 +1,16 @@
+[
+    {
+        "OrderId": 1,
+        "CustomerName": "Alice",
+        "Item": "Latte",
+        "Price": 35000,
+        "Date": "2025-05-13T08:30:00"
+    },
+    {
+        "OrderId": 2,
+        "CustomerName": "Bob",
+        "Item": "Espresso",
+        "Price": 28000,
+        "Date": "2025-05-13T09:00:00"
+    }
+]
