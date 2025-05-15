@@ -162,7 +162,7 @@ namespace MampirGan_Automata__dan_Table_driven_.Fitur
                 Console.WriteLine("Tidak ada data keranjang");
             }
         }
-        public virtual void AddItem(string productName, int quantity)
+        public void AddItem(string productName, int quantity)
         {
             if (string.IsNullOrWhiteSpace(productName))
                 throw new ArgumentException("Nama produk tidak boleh kosong.");
@@ -198,7 +198,7 @@ namespace MampirGan_Automata__dan_Table_driven_.Fitur
 
             saveToJson.SaveCartToFile(cartDataPath, CartItems);
         }
-        public virtual void RemoveItem(int productID)
+        public void RemoveItem(int productID)
         {
             if (productID <= 0)
             {
@@ -220,9 +220,9 @@ namespace MampirGan_Automata__dan_Table_driven_.Fitur
             saveToJson.SaveCartToFile(cartDataPath, CartItems);
         }
 
-        public virtual bool HasItems() => CartItems.Any();
+        public bool HasItems() => CartItems.Any();
 
-        public virtual void ViewCart()
+        public void ViewCart()
         {
             if (CartItems == null)
                 throw new InvalidOperationException("Data keranjang tidak tersedia.");
@@ -245,7 +245,7 @@ namespace MampirGan_Automata__dan_Table_driven_.Fitur
             Console.WriteLine($"Total belanja: Rp{total:N0}");
         }
 
-        public virtual void ClearCart()
+        public void ClearCart()
         {
             CartItems.Clear();
             Console.WriteLine("Semua item di keranjang telah dihapus.");
@@ -256,7 +256,7 @@ namespace MampirGan_Automata__dan_Table_driven_.Fitur
             saveToJson.SaveCartToFile(cartDataPath, CartItems);
         }
 
-        public virtual List<Cart> GetCart()
+        public List<Cart> GetCart()
         {
             return CartItems;
         }

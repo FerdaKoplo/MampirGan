@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4030D65D-B206-441B-A427-E4055BA9602A}|MampirGan.Test\\MampirGan.Test.csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4030D65D-B206-441B-A427-E4055BA9602A}|MampirGan.Test\\MampirGan.Test.csproj|solutionrelative:mampirgan.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\jsons\\checkoutdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\jsons\\checkoutdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\jsons\\cartdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\jsons\\cartdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\jsons\\categorydummy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\jsons\\categorydummy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\jsons\\productdummy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\jsons\\productdummy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\fitur\\menuuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\fitur\\menuuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\objects\\transactionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\objects\\transactionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\objects\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\objects\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\objects\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\objects\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\objects\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\objects\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4030D65D-B206-441B-A427-E4055BA9602A}|MampirGan.Test\\MampirGan.Test.csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,8 +47,32 @@
       "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\objects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4030D65D-B206-441B-A427-E4055BA9602A}|MampirGan.Test\\MampirGan.Test.csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4030D65D-B206-441B-A427-E4055BA9602A}|MampirGan.Test\\MampirGan.Test.csproj|solutionrelative:mampirgan.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\objects\\transactionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\objects\\transactionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\utils\\jsonloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\utils\\jsonloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\objects\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\objects\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\enums\\states\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\enums\\states\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\fitur\\menuuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\fitur\\menuuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\objects\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\objects\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\enums\\events\\cartevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\enums\\events\\categoryevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\utils\\jsonloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\utils\\jsonloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\enums\\events\\checkoutevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\enums\\events\\checkoutevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,24 +95,12 @@
       "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\utils\\savetojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\objects\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\objects\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4030D65D-B206-441B-A427-E4055BA9602A}|MampirGan.Test\\MampirGan.Test.csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan.test\\mampirgan.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4030D65D-B206-441B-A427-E4055BA9602A}|MampirGan.Test\\MampirGan.Test.csproj|solutionrelative:mampirgan.test\\mampirgan.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\jsons\\categorydummy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\jsons\\categorydummy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\jsons\\cartdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|solutionrelative:mampirgan(automata, dan table driven)\\jsons\\cartdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AAA5444-327B-4145-BC5D-1176CD80CDD9}|MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj|c:\\users\\ivan\\documents\\project_c#\\mampirgan-automata-table-driven-only-\\mampirgan(automata, dan table driven)\\mampirgan(automata, dan table driven)\\jsons\\checkoutdata.json||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,141 +129,25 @@
               "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDummy.json",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\ProductDummy.json",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Jsons\\ProductDummy.json",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\ProductDummy.json",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Jsons\\ProductDummy.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T13:38:16.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CheckoutData.json",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CheckoutData.json",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Jsons\\CheckoutData.json",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CheckoutData.json",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Jsons\\CheckoutData.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T13:31:43.032Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuUser.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\MenuUser.cs",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Fitur\\MenuUser.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\MenuUser.cs",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Fitur\\MenuUser.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwB4AAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan.Test\\Test1.cs",
+              "RelativeDocumentMoniker": "MampirGan.Test\\Test1.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan.Test\\Test1.cs",
+              "RelativeToolTip": "MampirGan.Test\\Test1.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAD4v8kAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:19:22.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Program.cs",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Program.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Program.cs",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:13:21.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Transaction.cs",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Objects\\Transaction.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Transaction.cs",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Objects\\Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T16:16:24.828Z",
+              "WhenOpened": "2025-05-14T12:12:20.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Products.cs",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Objects\\Products.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Products.cs",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Objects\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:29:16.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TransactionItem.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\TransactionItem.cs",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Objects\\TransactionItem.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\TransactionItem.cs",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Objects\\TransactionItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T16:17:00.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryFeature.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\CategoryFeature.cs",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Fitur\\CategoryFeature.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\CategoryFeature.cs",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Fitur\\CategoryFeature.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAADwv3gAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:20:05.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CartFeature.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\CartFeature.cs",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Fitur\\CartFeature.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\CartFeature.cs",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Fitur\\CartFeature.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAADwv2AAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:20:47.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CartEvent.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Enums\\Events\\CartEvent.cs",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Enums\\Events\\CartEvent.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Enums\\Events\\CartEvent.cs",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Enums\\Events\\CartEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:14:35.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan.Test\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "MampirGan.Test\\MSTestSettings.cs",
@@ -272,32 +160,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "CategoryDummy.json",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CategoryDummy.json",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Jsons\\CategoryDummy.json",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CategoryDummy.json",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Jsons\\CategoryDummy.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T13:31:56.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutData.json",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CheckoutData.json",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Jsons\\CheckoutData.json",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CheckoutData.json",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Jsons\\CheckoutData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T13:31:43.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartData.json",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CartData.json",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Jsons\\CartData.json",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CartData.json",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Jsons\\CartData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T13:31:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Cart.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Objects\\Cart.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Cart.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Objects\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:30:26.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDummy.json",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\ProductDummy.json",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Jsons\\ProductDummy.json",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\ProductDummy.json",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Jsons\\ProductDummy.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T13:38:16.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryFeature.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\CategoryFeature.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Fitur\\CategoryFeature.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\CategoryFeature.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Fitur\\CategoryFeature.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAIwKAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:20:05.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CheckoutFeature.cs",
               "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\CheckoutFeature.cs",
               "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Fitur\\CheckoutFeature.cs",
               "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\CheckoutFeature.cs",
               "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Fitur\\CheckoutFeature.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAUwGwAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAADwv6oAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T13:19:46.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Test1.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan.Test\\Test1.cs",
-              "RelativeDocumentMoniker": "MampirGan.Test\\Test1.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan.Test\\Test1.cs",
-              "RelativeToolTip": "MampirGan.Test\\Test1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "CartFeature.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\CartFeature.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Fitur\\CartFeature.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\CartFeature.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Fitur\\CartFeature.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv5EAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:12:20.016Z"
+              "WhenOpened": "2025-05-12T13:20:47.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Category.cs",
               "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Objects\\Category.cs",
@@ -305,11 +272,113 @@
               "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Objects\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:31:35.055Z"
+              "WhenOpened": "2025-05-12T14:31:35.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionItem.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\TransactionItem.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Objects\\TransactionItem.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\TransactionItem.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Objects\\TransactionItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:17:00.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Jsonloader.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Utils\\Jsonloader.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Utils\\Jsonloader.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Utils\\Jsonloader.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Utils\\Jsonloader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:38:57.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Products.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Objects\\Products.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Products.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Objects\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:29:16.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "CartState.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Enums\\States\\CartState.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Enums\\States\\CartState.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Enums\\States\\CartState.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Enums\\States\\CartState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:15:28.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuUser.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\MenuUser.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Fitur\\MenuUser.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Fitur\\MenuUser.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Fitur\\MenuUser.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:19:22.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Program.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Program.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Program.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:13:21.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Transaction.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Objects\\Transaction.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Transaction.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Objects\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:16:24.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartEvent.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Enums\\Events\\CartEvent.cs",
+              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Enums\\Events\\CartEvent.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Enums\\Events\\CartEvent.cs",
+              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Enums\\Events\\CartEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:14:35.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "CategoryState.cs",
               "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Enums\\States\\CategoryState.cs",
               "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Enums\\States\\CategoryState.cs",
@@ -321,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "CategoryEvent.cs",
               "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Enums\\Events\\CategoryEvent.cs",
               "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Enums\\Events\\CategoryEvent.cs",
@@ -333,19 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Jsonloader.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Utils\\Jsonloader.cs",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Utils\\Jsonloader.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Utils\\Jsonloader.cs",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Utils\\Jsonloader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:38:57.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "CheckoutEvent.cs",
               "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Enums\\Events\\CheckoutEvent.cs",
               "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Enums\\Events\\CheckoutEvent.cs",
@@ -357,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "SaveToJson.cs",
               "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Utils\\SaveToJson.cs",
               "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Utils\\SaveToJson.cs",
@@ -369,19 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Cart.cs",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Objects\\Cart.cs",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Objects\\Cart.cs",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Objects\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:30:26.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "MampirGan.Test.csproj",
               "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan.Test\\MampirGan.Test.csproj",
               "RelativeDocumentMoniker": "MampirGan.Test\\MampirGan.Test.csproj",
@@ -393,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "MampirGan(Automata, dan Table driven).csproj",
               "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj",
               "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven).csproj",
@@ -405,19 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CategoryDummy.json",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CategoryDummy.json",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Jsons\\CategoryDummy.json",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CategoryDummy.json",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Jsons\\CategoryDummy.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T13:31:56.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CheckoutData.json",
               "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CheckoutData.json",
               "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Jsons\\CheckoutData.json",
@@ -426,18 +459,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-12T13:31:27.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CartData.json",
-              "DocumentMoniker": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CartData.json",
-              "RelativeDocumentMoniker": "MampirGan(Automata, dan Table driven)\\Jsons\\CartData.json",
-              "ToolTip": "C:\\Users\\IVAN\\Documents\\Project_C#\\MampirGan-Automata-Table-driven-only-\\MampirGan(Automata, dan Table driven)\\MampirGan(Automata, dan Table driven)\\Jsons\\CartData.json",
-              "RelativeToolTip": "MampirGan(Automata, dan Table driven)\\Jsons\\CartData.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-12T13:31:07.122Z"
             }
           ]
         }
